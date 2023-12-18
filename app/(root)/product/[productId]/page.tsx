@@ -31,6 +31,9 @@ const ProductPage: React.FC<ProductPageProps> = async ({
  }) => {
   const product = await getProduct(params.productId);
 
+  console.log("Product =>", product);
+  
+
   
   if (!product) {
     return null;
@@ -54,7 +57,7 @@ const ProductPage: React.FC<ProductPageProps> = async ({
                         <div className="flex items-center">
                             <span className="mx-2 text-gray-400">/</span>
                             <div className="-m-1">
-                            <a href="#" className="rounded-md p-1 text-sm font-medium text-gray-600 focus:text-gray-900 focus:shadow hover:text-gray-800">{product[0].category.name} </a>
+                            <a href="#" className="rounded-md p-1 text-sm font-medium text-gray-600 focus:text-gray-900 focus:shadow hover:text-gray-800">{product.category.name} </a>
                             </div>
                         </div>
                         </li>
@@ -63,14 +66,14 @@ const ProductPage: React.FC<ProductPageProps> = async ({
             </nav>
                     <div className="px-4 py-10 sm:px-6 lg:px-8">
                     <div className="lg:grid lg:grid-cols-2 lg:items-start lg:gap-x-8">
-                        <Gallery images={product[0].images} />
+                        <Gallery images={product.images} />
                         <div className="mt-10 px-4 sm:mt-16 sm:px-0 lg:mt-0">
                             <div className='flex gap-3 items-center mb-2'>
-                                <h3><Currency value={product[0].price}/></h3>
+                                <h3><Currency value={product.price}/></h3>
                                 <h3>-</h3>
-                                <h3><Currency value={product[0].priceBig}/></h3>
+                                <h3><Currency value={product.priceBig}/></h3>
                             </div>
-                        <Info data={product[0]} />
+                        <Info data={product} />
                         </div>
                     </div>
                     <hr className="my-10" />
