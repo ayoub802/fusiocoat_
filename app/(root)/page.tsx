@@ -15,13 +15,8 @@ export const metadata = {
   }
 
 
-export default async function SetupPage ({
-  children,
-}: {
-  children: React.ReactNode
-}) {
+export default async function SetupPage () {
 
-    
     
     
   return (
