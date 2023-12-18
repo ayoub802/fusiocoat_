@@ -82,14 +82,14 @@ function Applique() {
                                         <li className='ml-4 mb-2'>
                                             <h3>
                                             <span className='font-semibold text-[16px] mb-4 leading-6'>
-                                            Dépose du produit sur le tissu d’application : 
+                                            Dépose du produit sur le tissu d&apos;application : 
                                             </span> Déposer 2 lignes de produit d'environ 5 à 7 cm et espacées d'environ 1 cm au moyen de la micropipette fournie sur une microfibre ou tissu doux non pelucheux pour application céramique.</h3>
                                         </li>
                                         <li className='ml-4 mb-2'>
                                             <h3>
                                             <span className='font-semibold text-[16px] mb-4 leading-6'>
                                             Application :
-                                            </span> Appliquer la microfibre sans pression au moyen de mouvements linéaires croisés sur une surface d'environ 30 cm X 30 cm. Le mouvement est effectué à la fois verticalement et horizontalement pour que l'intégralité de la surface soit traitée uniformément. Pour optimiser la finition de votre revêtement, travailler sur une seule section à la fois.</h3>
+                                            </span> Appliquer la microfibre sans pression au moyen de mouvements linéaires croisés sur une surface d'environ 30 cm X 30 cm. Le mouvement est effectué à la fois verticalement et horizontalement pour que l&apos;intégralité de la surface soit traitée uniformément. Pour optimiser la finition de votre revêtement, travailler sur une seule section à la fois.</h3>
                                         </li>
                                         <li className='ml-4 mb-2'>
                                             <h3>
@@ -100,7 +100,7 @@ function Applique() {
                                     </ul>
 
                                     <p className='font-medium leading-6 mb-2'>
-                                    Il faut compter environ 2 h pour appliquer les revêtements FUSIOCOAT® sur l'intégralité de la carrosserie d'une voiture de taille moyenne.                                    
+                                    Il faut compter environ 2 h pour appliquer les revêtements FUSIOCOAT® sur l&apos;intégralité de la carrosserie d&apos;une voiture de taille moyenne.                                    
                                     </p>
                                 </div>
                             </div>
@@ -116,7 +116,7 @@ function Applique() {
                                       STABILISATION DU REVÊTEMENT
                                     </h2>
                                     <p className='font-medium leading-6 mb-2'>
-                                    Tous les revêtements de la gamme FUSIOCOAT® utilisent l‘humidité ambiante pour durcir et se lier sur les surfaces (peintures, verres, plastiques et métaux). Les revêtements sont secs au maximum 30 min après la pose mais leurs durées de stabilisations sont de 24 h (à température ambiante, de 15 à 30 deg C). Pendant cette durée, nous recommandons fortement de garder le véhicule au sec et de ne commencer les premiers lavages qu‘après 7 jours. Aussi, éviter les lavages aux rouleaux pendant les 30 premiers jours. Toutefois, le véhicule peut être utilisé à la suite des premières 24 h de stabilisation.                                   
+                                    Tous les revêtements de la gamme FUSIOCOAT® utilisent l&apos;humidité ambiante pour durcir et se lier sur les surfaces (peintures, verres, plastiques et métaux). Les revêtements sont secs au maximum 30 min après la pose mais leurs durées de stabilisations sont de 24 h (à température ambiante, de 15 à 30 deg C). Pendant cette durée, nous recommandons fortement de garder le véhicule au sec et de ne commencer les premiers lavages qu&apos;après 7 jours. Aussi, éviter les lavages aux rouleaux pendant les 30 premiers jours. Toutefois, le véhicule peut être utilisé à la suite des premières 24 h de stabilisation.                                   
                                      </p>
                                 </div>
                             </div>

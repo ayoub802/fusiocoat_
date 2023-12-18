@@ -82,7 +82,7 @@ function Revetement() {
                                         color="#000"
                                         />
                                     <h3 className='font-medium text-[12px] leading-6 text-[#000] text-left uppercase'>
-                                    Les couleurs d'origines préservées
+                                    Les couleurs d&apos;origines préservées
                                       </h3>
                                     </div>
                                     <div className="flex items-center gap-2">
@@ -139,12 +139,12 @@ function Revetement() {
                   <div className="col-md-12">
                     <div className="my-4">
                         <h3 className='font-medium leading-6'>
-                        En une seule couche, les revêtements FUSIOCOAT® forment des films de plusieurs microns épais, uniformes et compacts sur les peintures, verres, plastiques et métaux, permettant ainsi de maintenir leurs qualités esthétiques, leurs fonctionnalités et le conforts d’utilisations.                        
+                        En une seule couche, les revêtements FUSIOCOAT® forment des films de plusieurs microns épais, uniformes et compacts sur les peintures, verres, plastiques et métaux, permettant ainsi de maintenir leurs qualités esthétiques, leurs fonctionnalités et le conforts d&apos;utilisations.                        
                         </h3>
                     </div>
                     <div className="my-4">
                         <h3 className='font-medium leading-6'>
-                        Les revêtements FUSIOCOAT® apportent une résistance maximale face aux conditions d’expositions les plus sévères; milieux secs, humides, températures hivernales et estivales extrêmes; en milieux marins ou continentaux.                        
+                        Les revêtements FUSIOCOAT® apportent une résistance maximale face aux conditions d&apos;expositions les plus sévères; milieux secs, humides, températures hivernales et estivales extrêmes; en milieux marins ou continentaux.                        
                         </h3>
                     </div>
                     <div className="my-4">
