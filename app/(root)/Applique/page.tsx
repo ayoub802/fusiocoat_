@@ -56,13 +56,13 @@ function Applique() {
                                             <h3>
                                             <span className='font-semibold text-[16px] mb-4 leading-6'>
                                             Polissage : 
-                                            </span> Les rayures, tourbillons et autres imperfections de surfaces sont corrigés par polissage afin d`obtenir une surface lisse et uniforme. Cette étape est souvent essentielle pour les véhicules usagés ou anciens (parfois même neufs).</h3>
+                                            </span> Les rayures, tourbillons et autres imperfections de surfaces sont corrigés par polissage afin d'obtenir une surface lisse et uniforme. Cette étape est souvent essentielle pour les véhicules usagés ou anciens (parfois même neufs).</h3>
                                         </li>
                                         <li className='ml-4 mb-2'>
                                             <h3>
                                             <span className='font-semibold text-[16px] mb-4 leading-6'>
                                             Neutralisation : 
-                                            </span> Les corps gras, provenant du polissage, sont éliminés au moyen d'une solution à base d`IPA (alcool isopropylique).</h3>
+                                            </span> Les corps gras, provenant du polissage, sont éliminés au moyen d'une solution à base d'IPA (alcool isopropylique).</h3>
                                         </li>
                                     </ul>
                                 </div>
@@ -83,7 +83,7 @@ function Applique() {
                                             <h3>
                                             <span className='font-semibold text-[16px] mb-4 leading-6'>
                                             Dépose du produit sur le tissu d’application : 
-                                            </span> Déposer 2 lignes de produit d'environ 5 à 7 cm et espacées d`environ 1 cm au moyen de la micropipette fournie sur une microfibre ou tissu doux non pelucheux pour application céramique.</h3>
+                                            </span> Déposer 2 lignes de produit d'environ 5 à 7 cm et espacées d'environ 1 cm au moyen de la micropipette fournie sur une microfibre ou tissu doux non pelucheux pour application céramique.</h3>
                                         </li>
                                         <li className='ml-4 mb-2'>
                                             <h3>
@@ -100,7 +100,7 @@ function Applique() {
                                     </ul>
 
                                     <p className='font-medium leading-6 mb-2'>
-                                    Il faut compter environ 2 h pour appliquer les revêtements FUSIOCOAT® sur l`intégralité de la carrosserie d`une voiture de taille moyenne.                                    
+                                    Il faut compter environ 2 h pour appliquer les revêtements FUSIOCOAT® sur l'intégralité de la carrosserie d'une voiture de taille moyenne.                                    
                                     </p>
                                 </div>
                             </div>
