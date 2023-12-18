@@ -34,7 +34,7 @@ function Applique() {
                                         PREPARATION DE LA SURFACE
                                     </h2>
                                     <p className='font-medium leading-6 mb-2'>
-                                       La pose de la céramique doit être réalisée dans un endroit propre, sec, à l’abris du soleil et dans lequel la température est comprise entre 15 et 30ºC.
+                                       La pose de la céramique doit être réalisée dans un endroit propre, sec, à l&apos;abris du soleil et dans lequel la température est comprise entre 15 et 30ºC.
                                     </p>
                                     <p className='font-medium leading-6 mb-2'>
                                     Pour une finition parfaite, il est recommandé de suivre les quatre étapes suivantes :                                    
@@ -56,13 +56,13 @@ function Applique() {
                                             <h3>
                                             <span className='font-semibold text-[16px] mb-4 leading-6'>
                                             Polissage : 
-                                            </span> Les rayures, tourbillons et autres imperfections de surfaces sont corrigés par polissage afin d'obtenir une surface lisse et uniforme. Cette étape est souvent essentielle pour les véhicules usagés ou anciens (parfois même neufs).</h3>
+                                            </span> Les rayures, tourbillons et autres imperfections de surfaces sont corrigés par polissage afin d&apos;obtenir une surface lisse et uniforme. Cette étape est souvent essentielle pour les véhicules usagés ou anciens (parfois même neufs).</h3>
                                         </li>
                                         <li className='ml-4 mb-2'>
                                             <h3>
                                             <span className='font-semibold text-[16px] mb-4 leading-6'>
                                             Neutralisation : 
-                                            </span> Les corps gras, provenant du polissage, sont éliminés au moyen d'une solution à base d'IPA (alcool isopropylique).</h3>
+                                            </span> Les corps gras, provenant du polissage, sont éliminés au moyen d&apos;une solution à base d&apos;IPA (alcool isopropylique).</h3>
                                         </li>
                                     </ul>
                                 </div>
@@ -83,19 +83,19 @@ function Applique() {
                                             <h3>
                                             <span className='font-semibold text-[16px] mb-4 leading-6'>
                                             Dépose du produit sur le tissu d&apos;application : 
-                                            </span> Déposer 2 lignes de produit d'environ 5 à 7 cm et espacées d'environ 1 cm au moyen de la micropipette fournie sur une microfibre ou tissu doux non pelucheux pour application céramique.</h3>
+                                            </span> Déposer 2 lignes de produit d&apos;environ 5 à 7 cm et espacées d&apos;environ 1 cm au moyen de la micropipette fournie sur une microfibre ou tissu doux non pelucheux pour application céramique.</h3>
                                         </li>
                                         <li className='ml-4 mb-2'>
                                             <h3>
                                             <span className='font-semibold text-[16px] mb-4 leading-6'>
                                             Application :
-                                            </span> Appliquer la microfibre sans pression au moyen de mouvements linéaires croisés sur une surface d'environ 30 cm X 30 cm. Le mouvement est effectué à la fois verticalement et horizontalement pour que l&apos;intégralité de la surface soit traitée uniformément. Pour optimiser la finition de votre revêtement, travailler sur une seule section à la fois.</h3>
+                                            </span> Appliquer la microfibre sans pression au moyen de mouvements linéaires croisés sur une surface d&apos;environ 30 cm X 30 cm. Le mouvement est effectué à la fois verticalement et horizontalement pour que l&apos;intégralité de la surface soit traitée uniformément. Pour optimiser la finition de votre revêtement, travailler sur une seule section à la fois.</h3>
                                         </li>
                                         <li className='ml-4 mb-2'>
                                             <h3>
                                             <span className='font-semibold text-[16px] mb-4 leading-6'>
                                             Essuyage : 
-                                            </span> 1 minute environ après cette première étape, ajuster la surface du revêtement au moyen d'une serviette microfibre entre 2 à 3 passages verticaux et horizontaux sans pression.</h3>
+                                            </span> 1 minute environ après cette première étape, ajuster la surface du revêtement au moyen d&apos;une serviette microfibre entre 2 à 3 passages verticaux et horizontaux sans pression.</h3>
                                         </li>
                                     </ul>
 
