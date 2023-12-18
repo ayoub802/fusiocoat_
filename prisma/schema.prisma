@@ -27,7 +27,7 @@ model Product {
   priceBig    Decimal   @default(0)
   images      Image[]   // Relation to Image model
   orderItems  OrderItem[]   // Relation to Order model
-  description String?   @db.VarChar(9500)
+  description String   @db.VarChar(9500)
   createdAt   DateTime  @default(now())
   updatedAt   DateTime  @updatedAt
   @@index([categoryId])
