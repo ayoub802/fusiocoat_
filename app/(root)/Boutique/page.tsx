@@ -6,11 +6,7 @@ export const metadata = {
     title: 'Fusiocoat – Permanent Protective Coatings',
     description: 'fusiocoat E-Commerce Dashboard',
   }
-export default function Boutique({
-    children,
-  }: {
-    children: React.ReactNode
-  }) {
+export default function Boutique() {
 
   return (
     <>
